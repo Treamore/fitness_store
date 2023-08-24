@@ -8,8 +8,6 @@ import Catalogue from './pages/Catalogue';
 import SingleItem from './pages/SingleItem';
 import Checkout from './pages/Checkout';
 import SearchPage from './pages/SearchPage';
-import { useSelector } from 'react-redux';
-import items from './json/AllItems.json';
 import Brands from './pages/Future pages/Brands';
 import Contacts from './pages/Future pages/Contacts';
 import Delivery from './pages/Future pages/Delivery';
@@ -22,8 +20,6 @@ import Warranty from './pages/Future pages/Warranty';
 import NotFound from './pages/notFound';
 
 function App() {
-  const itemId = useSelector((state) => state.filterSlice.itemPage);
-  const item = items.filter((item) => +itemId === item.id)[0];
   return (
     <>
       <Header />
