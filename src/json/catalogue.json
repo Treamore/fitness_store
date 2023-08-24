@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "title": "Treadmills",
+    "side": {
+      "subtypes": ["Folding Treadmills", "Non-Folding Treadmills"]
+    }
+  },
+  {
+    "id": 2,
+    "title": "Exercise Bikes",
+    "side": {
+      "subtypes": ["Upright Exercise Bikes", "Recumbent Exercise Bikes", "Ragers"]
+    }
+  },
+  {
+    "id": 3,
+    "title": "Utility Benches"
+  },
+  {
+    "id": 4,
+    "title": "Barbell Benches"
+  },
+  {
+    "id": 5,
+    "title": "Multi-Gyms",
+    "side": {
+      "subtypes": ["Compact Multi-Gym", "Standart Multi-Gym", "Multi Stack Multi-Gym"]
+    }
+  },
+  {
+    "id": 6,
+    "title": "Smith Machines"
+  },
+  {
+    "id": 7,
+    "title": "Leg Machines"
+  },
+  {
+    "id": 8,
+    "title": "Arm Machines"
+  },
+  {
+    "id": 9,
+    "title": "Chest and Shoulder Machines"
+  },
+  {
+    "id": 10,
+    "title": "Back Machines"
+  },
+  {
+    "id": 11,
+    "title": "Rowing Machines",
+    "side": {
+      "subtypes": [
+        "Air & Hydraulic Rowing Machines",
+        "Water Rowing Machines",
+        "Magnectic Rowing Machines"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "title": "Steppers"
+  },
+  {
+    "id": 13,
+    "title": "Dumbbell Sets"
+  },
+  {
+    "id": 14,
+    "title": "Kettlebell Sets"
+  },
+  {
+    "id": 15,
+    "title": "Accessories",
+    "side": {
+      "subtypes": [
+        "Preparation & Recovery",
+        "Gym Balls",
+        "Aerobic Steps",
+        "Equipment Mats",
+        "Heart Rate Monitors"
+      ]
+    }
+  }
+]

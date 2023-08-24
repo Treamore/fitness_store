@@ -1,0 +1,4 @@
+[
+  { "id": 0, "category": "Treadmill", "subtype": ["Folding Treadmill", "Non-Folding Treadmill"] },
+  { "id": 1, "category": "Exrcise Bike", "subtype": ["Upright", "Recumbent", "Racer"] }
+]

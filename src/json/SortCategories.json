@@ -1,0 +1,484 @@
+[
+  {
+    "categoryId": 0,
+    "type": "",
+    "sort": []
+  },
+  {
+    "type": "Treadmills",
+    "sort": [
+      {
+        "label": "Subtype",
+        "values": ["Folding Treadmills", "Non-Folding Treadmills"]
+      },
+      {
+        "label": "Brand",
+        "values": ["Body Power", "Matrix Fitness", "ProForm", "NordicTrack", "Life Fitness"]
+      },
+      { "label": "Bluetooth", "values": ["Yes", "No"] },
+      { "label": "Tablet Holder", "values": ["Yes", "No"] },
+      {
+        "label": "Heart Rate Monitoring",
+        "values": [
+          " Analog",
+          "In-Built Sensors",
+          " Analog and In-Built Sensors",
+          "Bluetooth",
+          "In-Built Sensors and Bluetooth"
+        ]
+      },
+      {
+        "label": "App Integration",
+        "values": ["Life Fitness Connect", "Zwift", "KinoMap", "IFit"]
+      }
+    ]
+  },
+  {
+    "type": "Treadmills",
+    "subtype": "Folding Treadmills",
+    "sort": [
+      {
+        "label": "Brand",
+        "values": ["Body Power", "Matrix Fitness", "ProForm", "NordicTrack", "Life Fitness"]
+      },
+      { "label": "Bluetooth", "values": ["Yes", "No"] },
+      { "label": "Tablet Holder", "values": ["Yes", "No"] },
+      {
+        "label": "Heart Rate Monitoring",
+        "values": [
+          " Analog",
+          "In-Built Sensors",
+          " Analog and In-Built Sensors",
+          "Bluetooth",
+          "In-Built Sensors and Bluetooth"
+        ]
+      },
+      {
+        "label": "App Integration",
+        "values": ["Life Fitness Connect", "Zwift", "KinoMap", "IFit"]
+      }
+    ]
+  },
+  {
+    "type": "Treadmills",
+    "subtype": "Non-Folding Treadmills",
+    "sort": [
+      {
+        "label": "Brand",
+        "values": ["Body Power", "Matrix Fitness", "ProForm", "NordicTrack", "Life Fitness"]
+      },
+      { "label": "Bluetooth", "values": ["Yes", "No"] },
+      { "label": "Tablet Holder", "values": ["Yes", "No"] },
+      {
+        "label": "Heart Rate Monitoring",
+        "values": [
+          " Analog",
+          "In-Built Sensors",
+          " Analog and In-Built Sensors",
+          "Bluetooth",
+          "In-Built Sensors and Bluetooth"
+        ]
+      },
+      {
+        "label": "App Integration",
+        "values": ["Life Fitness Connect", "Zwift", "KinoMap", "IFit"]
+      }
+    ]
+  },
+  {
+    "type": "Exercise Bikes",
+    "sort": [
+      {
+        "label": "Subtype",
+        "values": ["Upright Exercise Bikes", "Recumbent Exercise Bikes, Ragers"]
+      },
+      {
+        "label": "Brand",
+        "values": ["Schwinn", "Matrix Fitness", "ProForm", "NordicTrack", "Life Fitness"]
+      },
+      { "label": "Bluetooth", "values": ["Yes", "No"] },
+      { "label": "Tablet Holder", "values": ["Yes", "No"] },
+      {
+        "label": "Heart Rate Monitoring",
+        "values": [
+          " Analog",
+          "In-Built Sensors",
+          " Analog and In-Built Sensors",
+          "Bluetooth",
+          "In-Built Sensors and Bluetooth"
+        ]
+      },
+      {
+        "label": "App Integration",
+        "values": ["Life Fitness Connect", "Zwift", "KinoMap", "IFit", "Explore the World", "None"]
+      }
+    ]
+  },
+  {
+    "type": "Exercise Bikes",
+    "subtype": "Upright",
+    "sort": [
+      {
+        "label": "Brand",
+        "values": ["Body Power", "Matrix Fitness", "ProForm", "NordicTrack", "Life Fitness"]
+      },
+      { "label": "Bluetooth", "values": ["Yes", "No"] },
+      { "label": "Tablet Holder", "values": ["Yes", "No"] },
+      {
+        "label": "Heart Rate Monitoring",
+        "values": [
+          " Analog",
+          "In-Built Sensors",
+          " Analog and In-Built Sensors",
+          "Bluetooth",
+          "In-Built Sensors and Bluetooth"
+        ]
+      },
+      {
+        "label": "App Integration",
+        "values": ["Life Fitness Connect", "Zwift", "KinoMap", "IFit", "Explore the World", "None"]
+      }
+    ]
+  },
+  {
+    "type": "Exercise Bikes",
+    "subtype": "Recumbent",
+    "sort": [
+      {
+        "label": "Brand",
+        "values": ["Body Power", "Matrix Fitness", "ProForm", "NordicTrack", "Life Fitness"]
+      },
+      { "label": "Bluetooth", "values": ["Yes", "No"] },
+      { "label": "Tablet Holder", "values": ["Yes", "No"] },
+      {
+        "label": "Heart Rate Monitoring",
+        "values": [
+          " Analog",
+          "In-Built Sensors",
+          " Analog and In-Built Sensors",
+          "Bluetooth",
+          "In-Built Sensors and Bluetooth"
+        ]
+      },
+      {
+        "label": "App Integration",
+        "values": ["Life Fitness Connect", "Zwift", "KinoMap", "IFit", "Explore the World", "None"]
+      }
+    ]
+  },
+  {
+    "type": "Exercise Bikes",
+    "subtype": "Ragers",
+    "sort": [
+      {
+        "label": "Brand",
+        "values": ["Body Power", "Matrix Fitness", "ProForm", "NordicTrack", "Life Fitness"]
+      },
+      { "label": "Bluetooth", "values": ["Yes", "No"] },
+      { "label": "Tablet Holder", "values": ["Yes", "No"] },
+      {
+        "label": "Heart Rate Monitoring",
+        "values": [
+          " Analog",
+          "In-Built Sensors",
+          " Analog and In-Built Sensors",
+          "Bluetooth",
+          "In-Built Sensors and Bluetooth"
+        ]
+      },
+      {
+        "label": "App Integration",
+        "values": ["Life Fitness Connect", "Zwift", "KinoMap", "IFit", "Explore the World", "None"]
+      }
+    ]
+  },
+  {
+    "type": "Utility Bench",
+    "sort": [
+      {
+        "label": "Brand",
+        "values": ["Body Power", "Life Fitness", "Matrix Fitness Commercial", "Powerline"]
+      }
+    ]
+  },
+  {
+    "type": "Barbell Bench",
+    "sort": [
+      {
+        "label": "Brand",
+        "values": ["ProForm", "Body-Solid", "Powerline"]
+      }
+    ]
+  },
+  {
+    "type": "Multi-Gym",
+    "sort": [
+      {
+        "label": "Subtype",
+        "values": ["Compact Multi-Gym", "Standart Multi-Gym", "Multi Stack Multi-Gym"]
+      },
+      {
+        "label": "Brand",
+        "values": ["York", "BH Fitness", "Body-Solid"]
+      }
+    ]
+  },
+  {
+    "type": "Multi-Gym",
+    "subtype": "Compact Multi-Gym",
+    "sort": [
+      {
+        "label": "Brand",
+        "values": ["York", "BH Fitness", "Body-Solid"]
+      }
+    ]
+  },
+  {
+    "type": "Multi-Gym",
+    "subtype": "Standart Multi-Gym",
+    "sort": [
+      {
+        "label": "Brand",
+        "values": ["Body-Solid", "TuffStuff"]
+      }
+    ]
+  },
+  {
+    "type": "Multi-Gym",
+    "subtype": "Multi Stack Multi-Gym",
+    "sort": [{}]
+  },
+  {
+    "type": "Smith Machine",
+    "sort": [{ "label": "Brand", "values": ["Body Power", "Body Solid", "Powerline"] }]
+  },
+  {
+    "type": "Leg Machine",
+    "sort": [{ "label": "Brand", "values": ["Life Fitness", "Body Solid"] }]
+  },
+  {
+    "type": "Arm Machine",
+    "sort": [
+      { "label": "Brand", "values": ["Life Fitness", "Hammer Strength", "Powerline", "Body Solid"] }
+    ]
+  },
+  {
+    "type": "Chest and Shoulder Machines",
+    "sort": [{ "label": "Brand", "values": ["Body Solid", "Hammer Strength", "Powerline"] }]
+  },
+  {
+    "type": "Back Machines",
+    "sort": [{ "label": "Brand", "values": ["Body Solid", "Hammer Strength"] }]
+  },
+  {
+    "type": "Rowing Machines",
+    "sort": [
+      {
+        "label": "Subtype",
+        "values": ["Air & Hydraulic Rowing Machines", "Water Rowing Machines"]
+      },
+      {
+        "label": "Brand",
+        "values": ["NordicTrack", "Life Fitness", "Body Solid", "ProForm"]
+      },
+      { "label": "Bluetooth", "values": ["Yes", "No"] },
+      { "label": "Tablet Holder", "values": ["Yes", "No"] },
+      {
+        "label": "Heart Rate Monitoring",
+        "values": [
+          "Analog",
+          "In-Built Sensors",
+          " Analog and In-Built Sensors",
+          "Bluetooth",
+          "In-Built Sensors and Bluetooth"
+        ]
+      },
+      {
+        "label": "App Integration",
+        "values": ["Life Fitness Connect", "Zwift", "KinoMap", "IFit", "None"]
+      }
+    ]
+  },
+  {
+    "type": "Rowing Machines",
+    "subtype": "Air & Hydraulic Rowing Machines ",
+    "sort": [
+      {
+        "label": "Brand",
+        "values": ["NordicTrack", "Life Fitness", "Body Solid", "ProForm"]
+      },
+      { "label": "Bluetooth", "values": ["Yes", "No"] },
+      { "label": "Tablet Holder", "values": ["Yes", "No"] },
+      {
+        "label": "Heart Rate Monitoring",
+        "values": [
+          " Analog",
+          "In-Built Sensors",
+          " Analog and In-Built Sensors",
+          "Bluetooth",
+          "In-Built Sensors and Bluetooth"
+        ]
+      },
+      {
+        "label": "App Integration",
+        "values": ["Life Fitness Connect", "Zwift", "KinoMap", "IFit", "None"]
+      }
+    ]
+  },
+  {
+    "type": "Rowing Machines",
+    "subtype": "Water Rowing Machines ",
+    "sort": [
+      {
+        "label": "Brand",
+        "values": ["Life Fitness", "FluidRower", "ProForm"]
+      },
+      { "label": "Bluetooth", "values": ["Yes", "No"] },
+      { "label": "Tablet Holder", "values": ["Yes", "No"] },
+      {
+        "label": "Heart Rate Monitoring",
+        "values": [
+          " Analog",
+          "In-Built Sensors",
+          " Analog and In-Built Sensors",
+          "Bluetooth",
+          "In-Built Sensors and Bluetooth"
+        ]
+      },
+      {
+        "label": "App Integration",
+        "values": ["Life Fitness Connect", "Zwift", "KinoMap", "IFit", "None"]
+      }
+    ]
+  },
+  {
+    "type": "Rowing Machines",
+    "subtype": "Magnetic Rowing Machines ",
+    "sort": [
+      {
+        "label": "Brand",
+        "values": ["NordicTrack", "Life Fitness", "Body Solid", "ProForm"]
+      },
+      { "label": "Bluetooth", "values": ["Yes", "No"] },
+      { "label": "Tablet Holder", "values": ["Yes", "No"] },
+      {
+        "label": "Heart Rate Monitoring",
+        "values": [
+          " Analog",
+          "In-Built Sensors",
+          " Analog and In-Built Sensors",
+          "Bluetooth",
+          "In-Built Sensors and Bluetooth"
+        ]
+      },
+      {
+        "label": "App Integration",
+        "values": ["Life Fitness Connect", "Zwift", "KinoMap", "IFit", "None"]
+      }
+    ]
+  },
+  {
+    "type": "Steppers",
+    "sort": [
+      {
+        "label": "Brand",
+        "values": ["NordicTrack", "Life Fitness", "ProForm", "Matrix Fitness"]
+      },
+      { "label": "Bluetooth", "values": ["Yes", "No"] },
+      { "label": "Tablet Holder", "values": ["Yes", "No"] }
+    ]
+  },
+  {
+    "type": "Dumbbell Sets",
+    "sort": [
+      {
+        "label": "Brand",
+        "values": ["Body Power", "Ziva"]
+      },
+      { "label": "Quantity", "values": ["Pair", "Set"] },
+      { "label": "Material", "values": ["Chrome", "Rubber", "Cast Iron"] }
+    ]
+  },
+  {
+    "type": "Kettlebell Sets",
+    "sort": [
+      {
+        "label": "Brand",
+        "values": ["Body Power", "York"]
+      },
+      {
+        "label": "Material",
+        "values": ["Vinyl", "Rubber Encased Cast Iron", "Neoprene Encased Cast Iron"]
+      }
+    ]
+  },
+  {
+    "type": "Accessories",
+    "sort": [
+      {
+        "label": "Subtype",
+        "values": [
+          "Preparation & Recovery",
+          "Gym Balls",
+          "Aerobic Steps",
+          "Equipment Mats",
+          "Heart Rate Monitors"
+        ]
+      },
+      {
+        "label": "Brand",
+        "values": ["Body Power", "Power Plate", "Ziva", "Life Fitness"]
+      }
+    ]
+  },
+  {
+    "type": "Accessories",
+    "subtype": "Preparation & Recovery",
+    "sort": [
+      {
+        "label": "Brand",
+        "values": ["Body Power", "Power Plate", "Ziva", "Life Fitness"]
+      }
+    ]
+  },
+  {
+    "type": "Accessories",
+    "subtype": "Gym Balls",
+    "sort": [
+      {
+        "label": "Brand",
+        "values": ["Body Power", "Power Plate", "Ziva", "Life Fitness"]
+      }
+    ]
+  },
+  {
+    "type": "Accessories",
+    "subtype": "Aerobic Steps",
+    "sort": [
+      {
+        "label": "Brand",
+        "values": ["Body Power", "Power Plate", "Ziva", "Life Fitness"]
+      }
+    ]
+  },
+  {
+    "type": "Accessories",
+    "subtype": "Equipment Mats",
+    "sort": [
+      {
+        "label": "Brand",
+        "values": ["Body Power", "Power Plate", "Ziva", "Life Fitness"]
+      }
+    ]
+  },
+  {
+    "type": "Accessories",
+    "subtype": "Heart Rate Monitors",
+    "sort": [
+      {
+        "label": "Brand",
+        "values": ["Body Power", "Power Plate", "Ziva", "Life Fitness"]
+      }
+    ]
+  }
+]
