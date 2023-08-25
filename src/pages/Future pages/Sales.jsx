@@ -1,5 +1,5 @@
 import React from 'react';
-import image from '../../images/under_construction.jpg';
+import UnderConstruction from '../../components/global/UnderConstruction';
 import { Link } from 'react-router-dom';
 
 export const Sales = () => {
@@ -18,10 +18,7 @@ export const Sales = () => {
             </li>
           </ul>
         </nav>
-        <div className="construction">
-          <div className="construction__text">Page under construction</div>
-          <img className="construction__image" src={image} alt="Under construction" />
-        </div>
+        <UnderConstruction />
       </div>
     </div>
   );
